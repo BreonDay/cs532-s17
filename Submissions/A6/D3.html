@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<head>
 <meta charset="utf-8">
 <style>
 
@@ -13,9 +14,10 @@
 }
 
 </style>
-<body>
 <svg width="960" height="600"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
+</head>
+<body>
 <script>
 
 var svg = d3.select("svg"),
@@ -30,7 +32,7 @@ var simulation = d3.forceSimulation()
     .force("charge", d3.forceManyBody())
     .force("center", d3.forceCenter(width / 2, height / 2));
 
-d3.json("twitter.json", function(error, graph) {
+d3.json("miserables.json", function(error, graph) {
   if (error) throw error;
 
   var link = svg.append("g")
