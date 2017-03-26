@@ -1,5 +1,5 @@
-Assigment 6
-Links:
+**Assigment 6**
+*Links:
 raw html http://htmlpreview.github.io/?https://github.com/BreonDay/cs532-s17/blob/master/Submissions/A6/D3.html
 Written in:
 python 3.6
