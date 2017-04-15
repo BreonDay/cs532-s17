@@ -1,0 +1,124 @@
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+k=5
+[blognames[r] for r in kclust[0]]
+['Friday Night Dream', 'SEVEN1878', 'Spinitron Charts', 'GLI Press', 'A H T A P O T', 'kaleidoscopekanvas-KK', 'fractalpress.gr', 'Music-Drop Magazine', 'MTJR RANTS & RAVES ON MUSIC', 'Unexpectedly Bart (King!)', '\xce\x94\xce\xaf\xcf\x83\xce\xba\xce\xbf\xce\xb9 \xce\x9c\xce\xbf\xcf\x85\xcf\x83\xce\xb9\xce\xba\xce\xae\xcf\x82 \xcf\x83\xcf\x84\xce\xbf \xce\xa7\xcf\x81\xcf\x8c\xce\xbd\xce\xbf', 'Out And Down In The Colonies']
+
+[blognames[r] for r in kclust[1]]
+['Spotirama', 'SEM REGRAS', 'Green Eggs and Ham Mondays 8-10am', 'Chemical Robert!', 'Yestermorrow', 'IoTube     :)', '@65 Sounding Booth', 'The Campus Buzz on WSOU', 'LOST  PLACES', 'THE HUB', 'earenjoy', '\xce\x9c\xce\x95\xce\xa3\xce\x91 \xce\xa3\xce\xa4\xce\x97 \xce\x92\xce\xa1\xce\xa9\xce\x9c\xce\x99\xce\x91', 'Vull ser com tu!', 'Ian Hill Stuff']
+
+[blognames[r] for r in kclust[2]]
+['U-Rock Radio\xe2\x84\xa2', 'Web Science and Digital Libraries Research Group', 'Oh Yes J\xc3\xb3nsi!!', 'holaOLA', 'World Of Pearl Jam Bootlegs', 'Floorshime Zipper Boots', 'A2 MEDIA COURSEWORK JOINT BLOG', 'Paulina Gamero. Media Studies A2', 'INDIEohren.!', 'Rebecca Wood 9282 A2 Advanced Portfolio', 'the traveling neighborhood', 'macthemost', 'hmmhannah', "MarkFisher's-MusicReview", 'PALMIRA A PISTA TRES']
+
+[blognames[r] for r in kclust[3]]
+['On Warmer Music', 'My Name Is Blue Canary', 'Primitive Offerings', 'Stereo Pills', 'The Stark Online', 'Did Not Chart', 'DaveCromwell Writes', 'Bonjour Girl', 'GYPSY RHAPSODY', 'Myopiamuse', 'Notes from a Genius', 'www.doginasweater.com Live Show Review Archive', 'Eli Jace | The Mind Is A Terrible Thing To Paste', 'Subterranean Noise', 'Everything Starts With an A...', 'SunStock Music', 'A layer of chips', 'Some Call It Noise....', 'ATXSounds', 'Dust and Water Studios', 'Visual Feeling', 'Broken Biscuit Records', 'The Music Binge', 'Indie Top 20 - The Blog!', 'F-Measure', 'Hip In Detroit', 'Wyoming Beat', 'Encore', 'Revolver USA Distribution & Midheaven mailorder', 'Cast Iron Songs']
+
+[blognames[r] for r in kclust[4]]
+['Words', 'aubade', 'from a voice plantation', 'The Great Adventure 2016', 'adrianoblog', 'STANLEY SAYS', 'Stonehill Sketchbook', 'hello my name is justin.', 'a duchess nonethelesss', 'nonsense a la mode', 'Happy Accidents', 'music of the moment', 'Luke And The Real Blog', "Pirate's Log", 'What A Wonderful World', 'Hasta la Byebye', 'The Perfect Vent', 'The Themes of My Life', 'Now I am become Death, the destroyer of worlds', 'Helen McCookerybook', 'The Stearns Family', 'Sonology', 'CoolDad Music', 'bittersweet', "Room 19's Blog 2016", 'One Stunning Single Egg', 'Rants from the Pants', 'Cherry Area', 'The Professional Daydreamer', "She's mad but she's magic. There's no lie in her fire.", "isyeli's", '"DANCING IN CIRCLES"']
+
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+k = 10
+[blognames[r] for r in kclust[0]]
+['Spinitron Charts', 'IoTube     :)', 'Visual Feeling', 'Cast Iron Songs']
+
+[blognames[r] for r in kclust[1]]
+['Chemical Robert!', 'DaveCromwell Writes', 'Paulina Gamero. Media Studies A2', 'Myopiamuse', 'MTJR RANTS & RAVES ON MUSIC', 'macthemost', 'Everything Starts With an A...', 'Some Call It Noise....', 'ATXSounds', 'Indie Top 20 - The Blog!', 'F-Measure', 'Revolver USA Distribution & Midheaven mailorder']
+
+[blognames[r] for r in kclust[2]]
+['Spotirama', 'SEM REGRAS', 'Oh Yes J\xc3\xb3nsi!!', 'Yestermorrow', 'adrianoblog', '@65 Sounding Booth', 'INDIEohren.!', 'LOST  PLACES', 'hmmhannah', 'earenjoy', '\xce\x9c\xce\x95\xce\xa3\xce\x91 \xce\xa3\xce\xa4\xce\x97 \xce\x92\xce\xa1\xce\xa9\xce\x9c\xce\x99\xce\x91', 'PALMIRA A PISTA TRES']
+
+[blognames[r] for r in kclust[3]]
+['My Name Is Blue Canary', 'aubade', 'from a voice plantation', 'The Great Adventure 2016', 'STANLEY SAYS', 'Stonehill Sketchbook', 'hello my name is justin.', 'a duchess nonethelesss', 'nonsense a la mode', 'Rebecca Wood 9282 A2 Advanced Portfolio', 'Luke And The Real Blog', "Pirate's Log", 'Notes from a Genius', 'What A Wonderful World', 'Subterranean Noise', 'The Perfect Vent', 'Helen McCookerybook', 'The Stearns Family', 'Sonology', 'bittersweet', "Room 19's Blog 2016", 'Rants from the Pants', 'Cherry Area', 'Hip In Detroit', "She's mad but she's magic. There's no lie in her fire.", 'Vull ser com tu!']
+
+[blognames[r] for r in kclust[4]]
+['Green Eggs and Ham Mondays 8-10am', 'The Campus Buzz on WSOU', 'CoolDad Music', '\xce\x94\xce\xaf\xcf\x83\xce\xba\xce\xbf\xce\xb9 \xce\x9c\xce\xbf\xcf\x85\xcf\x83\xce\xb9\xce\xba\xce\xae\xcf\x82 \xcf\x83\xcf\x84\xce\xbf \xce\xa7\xcf\x81\xcf\x8c\xce\xbd\xce\xbf', '"DANCING IN CIRCLES"']
+
+[blognames[r] for r in kclust[5]]
+['Words', 'Happy Accidents', 'music of the moment', 'the traveling neighborhood', 'Hasta la Byebye', 'The Themes of My Life', 'Now I am become Death, the destroyer of worlds', 'One Stunning Single Egg', 'The Professional Daydreamer', "isyeli's"]
+
+[blognames[r] for r in kclust[6]]
+['On Warmer Music', 'Primitive Offerings', 'Stereo Pills', 'The Stark Online', 'Did Not Chart', 'Floorshime Zipper Boots', 'GYPSY RHAPSODY', 'www.doginasweater.com Live Show Review Archive', 'Eli Jace | The Mind Is A Terrible Thing To Paste', 'SunStock Music', 'A layer of chips', 'Dust and Water Studios', 'Broken Biscuit Records', 'THE HUB', 'The Music Binge', 'Wyoming Beat', 'Encore']
+
+[blognames[r] for r in kclust[7]]
+['Ian Hill Stuff']
+
+[blognames[r] for r in kclust[8]]
+['U-Rock Radio\xe2\x84\xa2', 'Web Science and Digital Libraries Research Group', 'holaOLA', 'World Of Pearl Jam Bootlegs', 'A2 MEDIA COURSEWORK JOINT BLOG', "MarkFisher's-MusicReview"]
+
+[blognames[r] for r in kclust[9]]
+['Friday Night Dream', 'SEVEN1878', 'GLI Press', 'A H T A P O T', 'kaleidoscopekanvas-KK', 'fractalpress.gr', 'Bonjour Girl', 'Music-Drop Magazine', 'Unexpectedly Bart (King!)', 'Out And Down In The Colonies']
+
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+k = 20
+[blognames[r] for r in kclust[0]]
+['Dust and Water Studios']
+
+[blognames[r] for r in kclust[1]]
+['Friday Night Dream', 'SEVEN1878', 'Spinitron Charts', 'A H T A P O T', 'kaleidoscopekanvas-KK', 'fractalpress.gr', 'Music-Drop Magazine', 'MTJR RANTS & RAVES ON MUSIC', 'Unexpectedly Bart (King!)', '\xce\x94\xce\xaf\xcf\x83\xce\xba\xce\xbf\xce\xb9 \xce\x9c\xce\xbf\xcf\x85\xcf\x83\xce\xb9\xce\xba\xce\xae\xcf\x82 \xcf\x83\xcf\x84\xce\xbf \xce\xa7\xcf\x81\xcf\x8c\xce\xbd\xce\xbf', 'Out And Down In The Colonies']
+
+[blognames[r] for r in kclust[2]]
+['Notes from a Genius', 'Cast Iron Songs']
+
+[blognames[r] for r in kclust[3]]
+['Ian Hill Stuff']
+
+[blognames[r] for r in kclust[4]]
+['from a voice plantation', 'STANLEY SAYS', 'hello my name is justin.', 'Happy Accidents', 'Subterranean Noise', 'The Perfect Vent', 'Helen McCookerybook', 'bittersweet', 'Cherry Area', 'The Professional Daydreamer']
+
+[blognames[r] for r in kclust[5]]
+[]
+
+[blognames[r] for r in kclust[6]]
+[]
+
+[blognames[r] for r in kclust[7]]
+['GLI Press', 'World Of Pearl Jam Bootlegs', 'A2 MEDIA COURSEWORK JOINT BLOG', 'Paulina Gamero. Media Studies A2', 'Bonjour Girl', 'Rebecca Wood 9282 A2 Advanced Portfolio']
+
+[blognames[r] for r in kclust[8]]
+['CoolDad Music', '"DANCING IN CIRCLES"']
+
+[blognames[r] for r in kclust[9]]
+['Stonehill Sketchbook', 'What A Wonderful World', 'The Stearns Family', 'Visual Feeling']
+
+[blognames[r] for r in kclust[10]]
+['Green Eggs and Ham Mondays 8-10am', 'The Great Adventure 2016', 'adrianoblog', 'a duchess nonethelesss', 'Luke And The Real Blog', 'The Campus Buzz on WSOU', 'THE HUB']
+
+[blognames[r] for r in kclust[11]]
+['IoTube     :)', 'LOST  PLACES', 'earenjoy', 'PALMIRA A PISTA TRES']
+
+[blognames[r] for r in kclust[12]]
+['Spotirama', 'Web Science and Digital Libraries Research Group', 'Oh Yes J\xc3\xb3nsi!!', 'holaOLA', 'INDIEohren.!', 'hmmhannah', "MarkFisher's-MusicReview"]
+
+[blognames[r] for r in kclust[13]]
+['On Warmer Music', 'Stereo Pills', 'Floorshime Zipper Boots', 'GYPSY RHAPSODY', 'Eli Jace | The Mind Is A Terrible Thing To Paste', 'SunStock Music', 'Some Call It Noise....', 'The Music Binge', 'Encore']
+
+[blognames[r] for r in kclust[14]]
+['SEM REGRAS', 'Yestermorrow', '@65 Sounding Booth', 'Everything Starts With an A...', '\xce\x9c\xce\x95\xce\xa3\xce\x91 \xce\xa3\xce\xa4\xce\x97 \xce\x92\xce\xa1\xce\xa9\xce\x9c\xce\x99\xce\x91']
+
+[blognames[r] for r in kclust[15]]
+['Words', 'nonsense a la mode', 'the traveling neighborhood', 'Hasta la Byebye', 'Now I am become Death, the destroyer of worlds', 'Sonology', "Room 19's Blog 2016", 'One Stunning Single Egg', 'Rants from the Pants', "She's mad but she's magic. There's no lie in her fire.", "isyeli's"]
+
+[blognames[r] for r in kclust[16]]
+['My Name Is Blue Canary', 'music of the moment', 'The Themes of My Life', 'Vull ser com tu!']
+
+[blognames[r] for r in kclust[17]]
+["Pirate's Log"]
+
+[blognames[r] for r in kclust[18]]
+['U-Rock Radio\xe2\x84\xa2', 'Chemical Robert!', 'DaveCromwell Writes', 'Myopiamuse', 'macthemost', 'Broken Biscuit Records', 'Revolver USA Distribution & Midheaven mailorder']
+
+[blognames[r] for r in kclust[19]]
+['Primitive Offerings', 'The Stark Online', 'aubade', 'Did Not Chart', 'www.doginasweater.com Live Show Review Archive', 'A layer of chips', 'ATXSounds', 'Indie Top 20 - The Blog!', 'F-Measure', 'Hip In Detroit', 'Wyoming Beat']
+
