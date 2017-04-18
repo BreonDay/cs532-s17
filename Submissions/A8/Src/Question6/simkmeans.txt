@@ -1,0 +1,119 @@
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+k=5
+[blognames[r] for r in kclust[0]]
+['The Night Mail']
+
+[blognames[r] for r in kclust[1]]
+['U-Rock Radio\xe2\x84\xa2', 'On Warmer Music', 'attached means identity', 'The Music Binge', 'A to Zappa - Song of the day', 'a duchess nonethelesss', 'THE HUB', 'The Girl at the Rock Show', 'Web Science and Digital Libraries Research Group', 'Parish Radio', 'F-Measure', "Riley Haas' blog", 'GLI Press', 'Stories From the City, Stories From the Sea', 'Wyoming Beat', 'Make Up, Music & Fashion', '~ mavaffantastico ~', 'Tremagazine', 'Everything Starts With an A...', 'Myopiamuse', "Pirate's Log", "MarkFisher's-MusicReview", '"DANCING IN CIRCLES"']
+
+[blognames[r] for r in kclust[2]]
+['MTJR RANTS & RAVES ON MUSIC', 'Friday Night Dream', '\xce\x94\xce\xaf\xcf\x83\xce\xba\xce\xbf\xce\xb9 \xce\x9c\xce\xbf\xcf\x85\xcf\x83\xce\xb9\xce\xba\xce\xae\xcf\x82 \xcf\x83\xcf\x84\xce\xbf \xce\xa7\xcf\x81\xcf\x8c\xce\xbd\xce\xbf', 'turnitup!', 'fractalpress.gr', 'Music-Drop Magazine']
+
+[blognames[r] for r in kclust[3]]
+[]
+
+[blognames[r] for r in kclust[4]]
+['LOST  PLACES', 'sweeping the kitchen', 'Cuz Music Rocks', 'SEM REGRAS', 'SunStock Music']
+
+Iteration 0
+Iteration 1
+Iteration 2
+k = 10
+[blognames[r] for r in kclust[0]]
+[]
+
+[blognames[r] for r in kclust[1]]
+['sweeping the kitchen', 'Parish Radio', 'Wyoming Beat']
+
+[blognames[r] for r in kclust[2]]
+['The Night Mail']
+
+[blognames[r] for r in kclust[3]]
+['On Warmer Music', 'The Music Binge', 'A to Zappa - Song of the day', 'Web Science and Digital Libraries Research Group', "Riley Haas' blog", 'GLI Press', 'Stories From the City, Stories From the Sea', '~ mavaffantastico ~', 'Tremagazine', "MarkFisher's-MusicReview"]
+
+[blognames[r] for r in kclust[4]]
+['MTJR RANTS & RAVES ON MUSIC', 'Friday Night Dream', 'turnitup!', 'fractalpress.gr', 'Music-Drop Magazine']
+
+[blognames[r] for r in kclust[5]]
+['LOST  PLACES', 'Cuz Music Rocks', 'attached means identity', 'THE HUB', 'SunStock Music', 'F-Measure', 'Everything Starts With an A...']
+
+[blognames[r] for r in kclust[6]]
+[]
+
+[blognames[r] for r in kclust[7]]
+['\xce\x94\xce\xaf\xcf\x83\xce\xba\xce\xbf\xce\xb9 \xce\x9c\xce\xbf\xcf\x85\xcf\x83\xce\xb9\xce\xba\xce\xae\xcf\x82 \xcf\x83\xcf\x84\xce\xbf \xce\xa7\xcf\x81\xcf\x8c\xce\xbd\xce\xbf']
+
+[blognames[r] for r in kclust[8]]
+['a duchess nonethelesss', 'The Girl at the Rock Show', 'Make Up, Music & Fashion', 'Myopiamuse', "Pirate's Log", '"DANCING IN CIRCLES"']
+
+[blognames[r] for r in kclust[9]]
+['U-Rock Radio\xe2\x84\xa2', 'SEM REGRAS']
+
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+k = 20
+[blognames[r] for r in kclust[0]]
+[]
+
+[blognames[r] for r in kclust[1]]
+[]
+
+[blognames[r] for r in kclust[2]]
+[]
+
+[blognames[r] for r in kclust[3]]
+[]
+
+[blognames[r] for r in kclust[4]]
+['MTJR RANTS & RAVES ON MUSIC']
+
+[blognames[r] for r in kclust[5]]
+['U-Rock Radio\xe2\x84\xa2', 'Parish Radio', 'Wyoming Beat']
+
+[blognames[r] for r in kclust[6]]
+['THE HUB']
+
+[blognames[r] for r in kclust[7]]
+[]
+
+[blognames[r] for r in kclust[8]]
+['F-Measure']
+
+[blognames[r] for r in kclust[9]]
+[]
+
+[blognames[r] for r in kclust[10]]
+[]
+
+[blognames[r] for r in kclust[11]]
+[]
+
+[blognames[r] for r in kclust[12]]
+['Everything Starts With an A...']
+
+[blognames[r] for r in kclust[13]]
+['A to Zappa - Song of the day', 'turnitup!']
+
+[blognames[r] for r in kclust[14]]
+['The Night Mail']
+
+[blognames[r] for r in kclust[15]]
+['SEM REGRAS', 'Web Science and Digital Libraries Research Group', "Riley Haas' blog", '~ mavaffantastico ~', "MarkFisher's-MusicReview"]
+
+[blognames[r] for r in kclust[16]]
+['LOST  PLACES', 'sweeping the kitchen', 'The Music Binge', 'SunStock Music', 'GLI Press', 'Stories From the City, Stories From the Sea', '"DANCING IN CIRCLES"']
+
+[blognames[r] for r in kclust[17]]
+['Friday Night Dream', '\xce\x94\xce\xaf\xcf\x83\xce\xba\xce\xbf\xce\xb9 \xce\x9c\xce\xbf\xcf\x85\xcf\x83\xce\xb9\xce\xba\xce\xae\xcf\x82 \xcf\x83\xcf\x84\xce\xbf \xce\xa7\xcf\x81\xcf\x8c\xce\xbd\xce\xbf', 'fractalpress.gr', 'Music-Drop Magazine']
+
+[blognames[r] for r in kclust[18]]
+['attached means identity', 'a duchess nonethelesss', 'Myopiamuse', "Pirate's Log"]
+
+[blognames[r] for r in kclust[19]]
+['Cuz Music Rocks', 'On Warmer Music', 'The Girl at the Rock Show', 'Make Up, Music & Fashion', 'Tremagazine']
+
