@@ -83,6 +83,7 @@ while((  (len(musicblogrssurls)<59) or (len(computerscienceurls)<39)  )):
             csCounter=0
             computerscienceurls.append(rss)
             outFile2.write(rss)
+            outFile2.write('\n')
                 
          elif (musicCounter==csCounter):
             print("tied so skipping")
@@ -95,6 +96,7 @@ while((  (len(musicblogrssurls)<59) or (len(computerscienceurls)<39)  )):
             csCounter=0
             musicblogrssurls.append(rss)
             outFile2.write(rss)
+            outFile2.write('\n')
 
          elif():
             print("doing nothing")
